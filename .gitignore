@@ -1,0 +1,5 @@
+### indecision-app ###
+# react course
+.idea
+node_modules
+yarn.lock
